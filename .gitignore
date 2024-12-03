@@ -362,7 +362,7 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
-# Environments
+# Environments (voor accestoken)
 .env
 .venv
 env/
